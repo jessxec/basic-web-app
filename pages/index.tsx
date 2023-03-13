@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <div>
       <h2>Welcome!!</h2>
+      <h1>Hello!</h1>
       <p>Please enter your query in the box below:</p>
       <input
         type="text"
